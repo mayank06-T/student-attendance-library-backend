@@ -12,7 +12,8 @@ out/
 # Sensitive configs
 application.properties
 application-*.properties
-
+application.yml
+application-*.yml
 # OS and misc
 .DS_Store
 Thumbs.db
